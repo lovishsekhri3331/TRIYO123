@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Sofia Pro Regular';
+    src: url('fonts/SofiaProRegular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Sofia Pro Light';
+    src: url('fonts/SofiaProLight.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Sofia Pro Medium';
+    src: url('fonts/SofiaProMedium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Sofia Pro Semi';
+    src: url('fonts/SofiaProSemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Sofia Pro Bold';
+    src: url('fonts/SofiaProBold.ttf') format('truetype');
+}
+
+$white: #FFFFFF !important;
+$black: #000000 !important;
+$primary-color: #0E75BB !important;
+$color-bb: #bbbbbb !important;
+$color-45: #454545 !important;
+$color-dd: #dddddd !important;
+$secondary-color: #273C8E !important;
+$light-color: #EEF3F9 !important;
+$color-3c: #3c3c3c !important;
+$color-90: #909090 !important;
+$blue: #2B3AFF !important;
+$other-blue: #25378E !important;
+$color-70: #707070 !important;
+
+$new-blue: #166FDD;
+$text-blue: #1074B9;
+
+$transparent: transparent !important;
+
+$regular-font: 'Sofia Pro Regular', sans-serif !important;
+$light-font: 'Sofia Pro Light', sans-serif !important;
+$medium-font: 'Sofia Pro Medium', sans-serif !important;
+$semi-font: 'Sofia Pro Semi', sans-serif !important;
+$bold-font: 'Sofia Pro Bold', sans-serif !important;
+$zero-value: 0 !important;
+$none-value: none !important;
+$full-width: 100% !important;

@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Sofia Pro Regular';
+  src: url("fonts/SofiaProRegular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Sofia Pro Light';
+  src: url("fonts/SofiaProLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Sofia Pro Medium';
+  src: url("fonts/SofiaProMedium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Sofia Pro Semi';
+  src: url("fonts/SofiaProSemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Sofia Pro Bold';
+  src: url("fonts/SofiaProBold.ttf") format("truetype");
+}
+/*# sourceMappingURL=variables.css.map */
